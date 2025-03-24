@@ -1,0 +1,13 @@
+{
+  "name": "@mrcgrtz/stylelint-test",
+  "version": "1.0.0",
+  "author": "Marc Görtz",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "stylelint '**/*.css'"
+  },
+  "devDependencies": {
+    "stylelint": "^16.16.0"
+  }
+}
