@@ -13,3 +13,9 @@ body {
   background-color: hsl(from var(--null, #f00) h s calc(l - 25));
 }
 ```
+
+Run `npm test` to see the `stylelint` output.
+
+It does not seem to be an issue with [`css-tree`](https://github.com/csstree/csstree) as the AST can be generated without issues.
+
+Run `npm start` to see the `css-tree` output.
