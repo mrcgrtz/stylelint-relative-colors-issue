@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "css-tree": "^3.1.0",
-    "stylelint": "^16.22.0"
+    "stylelint": "^16.23.0"
   }
 }
