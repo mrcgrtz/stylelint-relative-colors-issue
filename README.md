@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project has been archived as the original bug had been fixed in Stylelint 17.
+
 # Minimal example for Stylelint issue
 
 This appears to be an issue with [`declaration-property-value-no-unknown`](https://stylelint.io/user-guide/rules/declaration-property-value-no-unknown/) and [relative color syntax](https://www.w3.org/TR/css-color-5/#relative-colors):
